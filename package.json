@@ -1,0 +1,9 @@
+{
+  "name": "graphlet",
+  "version": "0.0.1",
+  "description": "An in-memory graph database.",
+  "main": "src/graphlet.js",
+  "repository": "antvaset/graphlet",
+  "author": "Anton Vasetenkov <antvaset@gmail.com>",
+  "license": "MIT"
+}
